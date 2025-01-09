@@ -1,0 +1,7 @@
+com\demo\movie_service\pojo\MoviePojo.class
+com\demo\movie_service\dao\entity\MovieEntity.class
+com\demo\movie_service\controller\MovieController.class
+com\demo\movie_service\dao\exception\GlobalExceptionHandler.class
+com\demo\movie_service\dao\MovieRepository.class
+com\demo\movie_service\MovieServiceApplication.class
+com\demo\movie_service\service\MovieService.class
